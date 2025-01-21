@@ -1,2 +1,31 @@
-# Udemy-clone
-The Udemy Clone is a responsive front-end project built with HTML and CSS, replicating the design of the Udemy platform. It features a modern, user-friendly layout, multiple pages, and interactive elements. Fully responsive, it adapts to all devices, showcasing proficiency in web development and design principles
+# Udemy Clone
+
+A fully responsive Udemy clone built using HTML and CSS. This project is a static front-end implementation of a popular e-learning platform's user interface.
+
+## Description
+
+This project replicates the core design and layout of Udemy, providing a user-friendly interface for browsing and exploring courses. It demonstrates responsive design principles and modern web development techniques, making it suitable for showcasing front-end development skills. While it focuses solely on the front-end, it serves as a solid foundation for integrating back-end functionalities in the future.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Fully responsive design for mobile, tablet, and desktop screens.
+- Modern and clean UI inspired by Udemy.
+- Home page showcasing courses, categories, and promotions.
+- Course detail page with description, reviews, and pricing.
+- Navbar with dropdown menus for easy navigation.
+- Footer with links to policies, help center, and social media.
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and layout, including Flexbox and Grid.

@@ -6,15 +6,7 @@ A fully responsive Udemy clone built using HTML and CSS. This project is a stati
 
 This project replicates the core design and layout of Udemy, providing a user-friendly interface for browsing and exploring courses. It demonstrates responsive design principles and modern web development techniques, making it suitable for showcasing front-end development skills. While it focuses solely on the front-end, it serves as a solid foundation for integrating back-end functionalities in the future.
 
-## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
